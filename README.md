@@ -2,6 +2,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jayn2u/posts)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dailytonychoi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwchoi179/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/jayn2u)
 
 - **블로그**: 개발을 하며 겪었던 시행착오와 깨달음을 기록하는 공간
 - **X**: 실리콘밸리 및 미국에서 일어나는 IT 상황을 빠르게 팔로업 하고 기록하며 생각을 나누는 공간
